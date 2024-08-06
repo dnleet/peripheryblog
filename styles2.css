@@ -8,7 +8,7 @@
   }
   
   .prototype .div {
-    background-color: #ffffff;
+    background-color: #d8d1d1b9;
     overflow: hidden;
     width: 1440px;
     height: 2208px;
@@ -587,3 +587,6 @@ h1 {
     border-radius: 50%;
   }
 
+  @media (min-width: 800px) {
+
+  }
