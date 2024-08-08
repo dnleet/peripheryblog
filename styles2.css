@@ -587,6 +587,7 @@ h1 {
     border-radius: 50%;
   }
 
-  @media (min-width: 800px) {
-
+  @media (max-width: 600px) {
+    .prototype {
+        width: 100%;
   }
